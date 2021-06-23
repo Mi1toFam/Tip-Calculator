@@ -21,9 +21,7 @@ Just launch the app and start typing.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Kap](https://getkap.co/).
+![Tip](https://user-images.githubusercontent.com/65626248/123033924-927b6100-d3b6-11eb-9c5d-68db6904b4e2.gif)
 
 ## Notes
 
