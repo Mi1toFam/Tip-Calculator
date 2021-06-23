@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - Tip Calculator
 
-**Name of your app** is a tip calculator application for iOS.
+Tip Calculator is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Milto Geleta
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
@@ -14,15 +14,8 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+Just launch the app and start typing.
 
 ## Video Walkthrough
 
@@ -34,17 +27,11 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-## Credits
-
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
-
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+Created using MacinCloud. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Milto Geleta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
